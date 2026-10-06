@@ -1,7 +1,7 @@
 {
-  "latest_version": "0.6.3",
+  "latest_version": "0.6.4",
   "min_supported_version": "0.6.1",
-  "update_url": "https://github.com/Dukekang0124/chunkspoke-releases/releases/download/v0.6.3/ChunkSpoke-v0.6.3-release.apk",
-  "update_log": "New: real in-app updates from a live release server, honest speech feedback (no fake scores), instant bounce-back for wrong chunk order.",
+  "update_url": "https://github.com/Dukekang0124/chunkspoke-releases/releases/download/v0.6.4/ChunkSpoke-v0.6.4-release.apk",
+  "update_log": "New: speech recognition rebuilt — real cloud transcriber endpoint, specific failure reasons instead of silent fallbacks, word-level diff highlighting, and an on-device Speech Check.",
   "force_update": false
 }
