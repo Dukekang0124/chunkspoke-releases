@@ -1,0 +1,7 @@
+{
+  "latest_version": "0.6.3",
+  "min_supported_version": "0.6.1",
+  "update_url": "https://github.com/Dukekang0124/chunkspoke-releases/releases/download/v0.6.3/ChunkSpoke-v0.6.3-release.apk",
+  "update_log": "New: real in-app updates from a live release server, honest speech feedback (no fake scores), instant bounce-back for wrong chunk order.",
+  "force_update": false
+}
