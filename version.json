@@ -1,7 +1,7 @@
 {
-  "latest_version": "0.6.5",
+  "latest_version": "0.7.0",
   "min_supported_version": "0.6.1",
-  "update_url": "https://github.com/Dukekang0124/chunkspoke-releases/releases/download/v0.6.5/ChunkSpoke-v0.6.5-release.apk",
-  "update_log": "New: no more dead ends — Try Again and Next always available, and manual text input keeps the loop going when speech recognition is unavailable.",
+  "update_url": "https://github.com/Dukekang0124/chunkspoke-releases/releases/download/v0.7.0/ChunkSpoke-v0.7.0-release.apk",
+  "update_log": "New: Duolingo-style forgiving speech checks (keyword coverage, small-word tolerance), Text Match Score in Dev Mode, and Next is always available with a skip confirm.",
   "force_update": false
 }
