@@ -1,7 +1,7 @@
 {
-  "latest_version": "0.7.0",
+  "latest_version": "0.7.1",
   "min_supported_version": "0.6.1",
-  "update_url": "https://github.com/Dukekang0124/chunkspoke-releases/releases/download/v0.7.0/ChunkSpoke-v0.7.0-release.apk",
-  "update_log": "New: Duolingo-style forgiving speech checks (keyword coverage, small-word tolerance), Text Match Score in Dev Mode, and Next is always available with a skip confirm.",
+  "update_url": "https://github.com/Dukekang0124/chunkspoke-releases/releases/download/v0.7.1/ChunkSpoke-v0.7.1-release.apk",
+  "update_log": "New: 4-model AI chain (GLM-5.3-Flash > DeepSeek-V4-Flash > Agnes-2.5-Flash > GLM-4-Flash) with a speaking Coach that explains fixes after every attempt.",
   "force_update": false
 }
