@@ -1,7 +1,7 @@
 {
-  "latest_version": "0.7.2",
+  "latest_version": "0.7.3",
   "min_supported_version": "0.6.1",
-  "update_url": "https://github.com/Dukekang0124/chunkspoke-releases/releases/download/v0.7.2/ChunkSpoke-v0.7.2-release.apk",
-  "update_log": "New: update flow rebuilt — MB-level download progress, in-dialog errors with Retry, and the permission guide appears inside the dialog.",
+  "update_url": "https://github.com/Dukekang0124/chunkspoke-releases/releases/download/v0.7.3/ChunkSpoke-v0.7.3-release.apk",
+  "update_log": "New: cleaner practice screens, no zero scores — every attempt earns a Text Match Score, and Free Speak is truly free (hints, not required sentences).",
   "force_update": false
 }
