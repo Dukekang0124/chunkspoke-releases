@@ -1,7 +1,17 @@
 {
-  "latest_version": "0.7.3",
-  "min_supported_version": "0.6.1",
-  "update_url": "https://github.com/Dukekang0124/chunkspoke-releases/releases/download/v0.7.3/ChunkSpoke-v0.7.3-release.apk",
-  "update_log": "New: cleaner practice screens, no zero scores — every attempt earns a Text Match Score, and Free Speak is truly free (hints, not required sentences).",
-  "force_update": false
+  "latest_version": "0.8.0",
+  "min_supported_version": "0.7.2",
+  "update_url": "https://github.com/Dukekang0124/chunkspoke-releases/releases/download/v0.8.0/ChunkSpoke-v0.8.0-native-release.apk",
+  "update_log": "This update switches ChunkSpoke to the native Android version (11.8MB, much smaller and faster). Note: practice progress from the old version does not carry over.",
+  "force_update": false,
+  "versionCode": 30,
+  "versionName": "0.8.0",
+  "apkUrl": "https://github.com/Dukekang0124/chunkspoke-releases/releases/download/v0.8.0/ChunkSpoke-v0.8.0-native-release.apk",
+  "sha256": "5b1022acea993fd5977faa697edca5eedf9f9f3924552667e126b6f73f70baf0",
+  "changelog": [
+    "Native Android rewrite (Kotlin + Jetpack Compose): 11.8MB instead of 114MB",
+    "Loop practice: identify -> assemble -> speak -> remix with forgiving matching",
+    "Speaking Coach, Error Patterns and Diagnostics built in",
+    "Practice progress from the old version does not carry over"
+  ]
 }
