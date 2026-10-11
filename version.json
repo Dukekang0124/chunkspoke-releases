@@ -1,11 +1,11 @@
 {
-  "latest_version": "0.8.1",
+  "latest_version": "0.8.2",
   "min_supported_version": "0.7.2",
-  "update_url": "https://github.com/Dukekang0124/chunkspoke-releases/releases/download/v0.8.1/ChunkSpoke-v0.8.1-native-release.apk",
-  "update_log": "This update switches ChunkSpoke to the native Android version (11.8MB, much smaller and faster). Note: practice progress from the old version does not carry over.",
+  "update_url": "https://github.com/Dukekang0124/chunkspoke-releases/releases/download/v0.8.2/ChunkSpoke-v0.8.2-native-release.apk",
+  "update_log": "New: dual-channel manifest (jsDelivr + GitHub Release), PackageInstaller session install, Speech Check diagnostics.",
   "force_update": false,
-  "versionCode": 30,
-  "versionName": "0.8.0",
+  "versionCode": 32,
+  "versionName": "0.8.2",
   "apkUrl": "https://github.com/Dukekang0124/chunkspoke-releases/releases/download/v0.8.0/ChunkSpoke-v0.8.0-native-release.apk",
   "sha256": "5b1022acea993fd5977faa697edca5eedf9f9f3924552667e126b6f73f70baf0",
   "changelog": [
@@ -14,5 +14,5 @@
     "Speaking Coach, Error Patterns and Diagnostics built in",
     "Practice progress from the old version does not carry over"
   ],
-  "update_url_backup": "https://cdn.jsdelivr.net/gh/Dukekang0124/chunkspoke-releases@main/apk/ChunkSpoke-v0.8.1-native.apk"
+  "update_url_backup": "https://cdn.jsdelivr.net/gh/Dukekang0124/chunkspoke-releases@main/apk/ChunkSpoke-v0.8.2-native.apk"
 }
