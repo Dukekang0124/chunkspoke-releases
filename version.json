@@ -1,5 +1,5 @@
 {
-  "latest_version": "0.8.0",
+  "latest_version": "0.8.1",
   "min_supported_version": "0.7.2",
   "update_url": "https://cdn.jsdelivr.net/gh/Dukekang0124/chunkspoke-releases@main/apk/ChunkSpoke-v0.8.1-native.apk",
   "update_log": "This update switches ChunkSpoke to the native Android version (11.8MB, much smaller and faster). Note: practice progress from the old version does not carry over.",
