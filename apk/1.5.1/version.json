@@ -1,0 +1,115 @@
+{
+  "versionName": "1.5.1",
+  "versionCode": 4052,
+  "url": "https://dukekang0124.github.io/chunkspoke-releases/apk/1.5.1/chunkspoke-latest.apk",
+  "urls": [
+    "https://dukekang0124.github.io/chunkspoke-releases/apk/1.5.1/chunkspoke-latest.apk",
+    "https://raw.githubusercontent.com/Dukekang0124/chunkspoke-releases/main/apk/1.5.1/chunkspoke-latest.apk"
+  ],
+  "pageUrl": "https://dukekang0124.github.io/chunkspoke/",
+  "sha256": "743cd3c78a59dc1f15980d41a1c081cf748819806bd7745b2d2306f89298b37c",
+  "size": 58144541,
+  "notes": "v1.5.1：词块资产制（第一波）——新增六态资产生命周期与 1/3/7/14 天复习引擎；复习队列按到期与薄弱优先，每日上限 20 个，超出自动顺延；复习失败进入「需重修」，通过后回到原档位；词块库可按资产状态查看与导出。",
+  "parts": [
+    {
+      "url": "https://cdn.jsdelivr.net/gh/Dukekang0124/chunkspoke-releases@main/apk/1.5.1/parts/apk.part0",
+      "size": 15728640,
+      "sha256": "7ab4d9707474788246de797134a4bab890623b37f2ce35f18ee59cab97b91b76"
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/Dukekang0124/chunkspoke-releases@main/apk/1.5.1/parts/apk.part1",
+      "size": 15728640,
+      "sha256": "93833f6c5d0141ccfbcb342a751be1c7450c553ad4445979f064dd67ec9c1015"
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/Dukekang0124/chunkspoke-releases@main/apk/1.5.1/parts/apk.part2",
+      "size": 15728640,
+      "sha256": "37a32237bc3006108da00b6ba13e6aea1f085a709f74fb037092a7522bf4147b"
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/Dukekang0124/chunkspoke-releases@main/apk/1.5.1/parts/apk.part3",
+      "size": 10958621,
+      "sha256": "8f8b3b0a55b6c48cd643ece620ded11ce31b98ab0dab913499a8f7977e16ca8e"
+    }
+  ],
+  "model": {
+    "name": "vosk-model-small-en-us-0.15",
+    "modelVersion": "0.15.1",
+    "sha256": "30f26242c4eb449f948e42cb302dd7a686cb29a3423a8367f99ff41780942498",
+    "size": 41205931,
+    "parts": [
+      {
+        "url": "https://cdn.jsdelivr.net/gh/Dukekang0124/chunkspoke-releases@main/models/vosk-model-small-en-us-0.15/parts/model.part0",
+        "size": 15728640,
+        "sha256": "2eab1a8820ede51b79c0d98b15cf6bd7e8a8913efac87c5349a4f6ca367c4382",
+        "fallbacks": [
+          "https://raw.githubusercontent.com/Dukekang0124/chunkspoke-releases/main/models/vosk-model-small-en-us-0.15/parts/model.part0",
+          "https://dukekang0124.github.io/chunkspoke-releases/models/vosk-model-small-en-us-0.15/parts/model.part0"
+        ]
+      },
+      {
+        "url": "https://cdn.jsdelivr.net/gh/Dukekang0124/chunkspoke-releases@main/models/vosk-model-small-en-us-0.15/parts/model.part1",
+        "size": 15728640,
+        "sha256": "aa56724ff24ec6ea9743653246a4847862a8d47d7715118fe46538a431c81f0e",
+        "fallbacks": [
+          "https://raw.githubusercontent.com/Dukekang0124/chunkspoke-releases/main/models/vosk-model-small-en-us-0.15/parts/model.part1",
+          "https://dukekang0124.github.io/chunkspoke-releases/models/vosk-model-small-en-us-0.15/parts/model.part1"
+        ]
+      },
+      {
+        "url": "https://cdn.jsdelivr.net/gh/Dukekang0124/chunkspoke-releases@main/models/vosk-model-small-en-us-0.15/parts/model.part2",
+        "size": 9748651,
+        "sha256": "a5ee185abefff456fafb51fefb657af7528f33a4360e8281797c5e35f6fb7337",
+        "fallbacks": [
+          "https://raw.githubusercontent.com/Dukekang0124/chunkspoke-releases/main/models/vosk-model-small-en-us-0.15/parts/model.part2",
+          "https://dukekang0124.github.io/chunkspoke-releases/models/vosk-model-small-en-us-0.15/parts/model.part2"
+        ]
+      }
+    ]
+  },
+  "voiceModel": {
+    "name": "hd-voice-piper-en-us-medium",
+    "modelVersion": "ljspeech-medium-2",
+    "sha256": "e05c19f53a31bc5e842d435c113d5e2a4e71b3d6e3e0abe0f401364ab3dee265",
+    "size": 58873277,
+    "parts": [
+      {
+        "url": "https://cdn.jsdelivr.net/gh/Dukekang0124/chunkspoke-releases@main/voice/hd-voice-piper-en-us-medium/parts/voice.part0",
+        "size": 15728640,
+        "sha256": "57c9e78229db6236362b1c598c852829076dd374bb521b7731f4e42691e0f647",
+        "fallbacks": [
+          "https://raw.githubusercontent.com/Dukekang0124/chunkspoke-releases/main/voice/hd-voice-piper-en-us-medium/parts/voice.part0",
+          "https://dukekang0124.github.io/chunkspoke-releases/voice/hd-voice-piper-en-us-medium/parts/voice.part0"
+        ]
+      },
+      {
+        "url": "https://cdn.jsdelivr.net/gh/Dukekang0124/chunkspoke-releases@main/voice/hd-voice-piper-en-us-medium/parts/voice.part1",
+        "size": 15728640,
+        "sha256": "b33e6e88382fbb7766a926357a38e8571eb6c3a502c187facc3c6a994371acf9",
+        "fallbacks": [
+          "https://raw.githubusercontent.com/Dukekang0124/chunkspoke-releases/main/voice/hd-voice-piper-en-us-medium/parts/voice.part1",
+          "https://dukekang0124.github.io/chunkspoke-releases/voice/hd-voice-piper-en-us-medium/parts/voice.part1"
+        ]
+      },
+      {
+        "url": "https://cdn.jsdelivr.net/gh/Dukekang0124/chunkspoke-releases@main/voice/hd-voice-piper-en-us-medium/parts/voice.part2",
+        "size": 15728640,
+        "sha256": "a5ac92a106621a3ffc08e585e4c49c3c10f2787a8b7f94028411bc97c1708e68",
+        "fallbacks": [
+          "https://raw.githubusercontent.com/Dukekang0124/chunkspoke-releases/main/voice/hd-voice-piper-en-us-medium/parts/voice.part2",
+          "https://dukekang0124.github.io/chunkspoke-releases/voice/hd-voice-piper-en-us-medium/parts/voice.part2"
+        ]
+      },
+      {
+        "url": "https://cdn.jsdelivr.net/gh/Dukekang0124/chunkspoke-releases@main/voice/hd-voice-piper-en-us-medium/parts/voice.part3",
+        "size": 11687357,
+        "sha256": "ed153a7eed3f13ee8d0c634e686f931ae07e31016529f830143edc016bd69370",
+        "fallbacks": [
+          "https://raw.githubusercontent.com/Dukekang0124/chunkspoke-releases/main/voice/hd-voice-piper-en-us-medium/parts/voice.part3",
+          "https://dukekang0124.github.io/chunkspoke-releases/voice/hd-voice-piper-en-us-medium/parts/voice.part3"
+        ]
+      }
+    ],
+    "mirrorUrl": "https://raw.githubusercontent.com/Dukekang0124/chunkspoke-releases/main/voice/hd-voice-piper-en-us-medium.zip"
+  }
+}
