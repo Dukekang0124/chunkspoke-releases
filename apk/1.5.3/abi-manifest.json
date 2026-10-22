@@ -1,0 +1,34 @@
+{
+  "versionName": "1.5.3",
+  "baseVersionCode": 2054,
+  "note": "应用内更新清单以 arm64 包为主；v7a/x86_64 为同版本生产包，versionCode 依 Flutter split-per-abi 规则分别 +1000/+2000/+4000，供对应 ABI 侧载或后续分发使用。",
+  "packages": [
+    {
+      "abi": "arm64-v8a",
+      "versionCode": 4054,
+      "file": "chunkspoke-latest.apk",
+      "size": 58276989,
+      "sha256": "8c3490ebc38ed71cade95c9578cb36e0b62fd04f18746bcc0f34c41e2913a81b",
+      "url": "https://dukekang0124.github.io/chunkspoke-releases/apk/1.5.3/chunkspoke-latest.apk",
+      "raw": "https://raw.githubusercontent.com/Dukekang0124/chunkspoke-releases/main/apk/1.5.3/chunkspoke-latest.apk"
+    },
+    {
+      "abi": "armeabi-v7a",
+      "versionCode": 3054,
+      "file": "chunkspoke-armeabi-v7a.apk",
+      "size": 46438075,
+      "sha256": "451f144c00b56d749b310b18f3a0f2c606e8a95781370edd1795e1e733e951a4",
+      "url": "https://dukekang0124.github.io/chunkspoke-releases/apk/1.5.3/chunkspoke-armeabi-v7a.apk",
+      "raw": "https://raw.githubusercontent.com/Dukekang0124/chunkspoke-releases/main/apk/1.5.3/chunkspoke-armeabi-v7a.apk"
+    },
+    {
+      "abi": "x86_64",
+      "versionCode": 6054,
+      "file": "chunkspoke-x86_64.apk",
+      "size": 64368590,
+      "sha256": "6f3aede408f99343ff6e48fc2de0dc5b62815ee02d8dc8e0b2650ee247034e4c",
+      "url": "https://dukekang0124.github.io/chunkspoke-releases/apk/1.5.3/chunkspoke-x86_64.apk",
+      "raw": "https://raw.githubusercontent.com/Dukekang0124/chunkspoke-releases/main/apk/1.5.3/chunkspoke-x86_64.apk"
+    }
+  ]
+}
