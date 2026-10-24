@@ -1,0 +1,38 @@
+{
+  "packages": {
+    "chunkspoke-latest.apk": {
+      "size": 59650507,
+      "sha256": "1da8f15bba7d7077efd42067d8a92b89e040a34af0b6a58542c89b654bf0792c"
+    },
+    "chunkspoke-armeabi-v7a.apk": {
+      "size": 47877133,
+      "sha256": "39ba50cdf7cf78d8c231963781f846752290071f3c69a1f3441ac13cc7997e76"
+    },
+    "chunkspoke-x86_64.apk": {
+      "size": 65742108,
+      "sha256": "328678bd8bbec9716ed24909bc4e99dc2df068e3f957f73391df70189658f29e"
+    }
+  },
+  "parts": [
+    {
+      "file": "apk.part0",
+      "size": 15728640,
+      "sha256": "c003d7e008d34fa4c67baa879b5cbc4146d6483e250ffb8f65961b3b99f8954d"
+    },
+    {
+      "file": "apk.part1",
+      "size": 15728640,
+      "sha256": "8d5875bacbc960bb15962571fbb3579a5218ba953d42d4cf7e45727a57e53237"
+    },
+    {
+      "file": "apk.part2",
+      "size": 15728640,
+      "sha256": "385d0426f9c5e55d11193426c7ba239ee4761f5f20ab05bc47e995e8d87db0e3"
+    },
+    {
+      "file": "apk.part3",
+      "size": 12464587,
+      "sha256": "2a189dc4659479fc5ef87d39fc33c6a03f4c4b75a729b0184ab93f3384ed2df4"
+    }
+  ]
+}

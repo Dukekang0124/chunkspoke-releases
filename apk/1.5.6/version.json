@@ -1,0 +1,115 @@
+{
+  "versionName": "1.5.6",
+  "versionCode": 4057,
+  "url": "https://dukekang0124.github.io/chunkspoke-releases/apk/1.5.6/chunkspoke-latest.apk",
+  "urls": [
+    "https://dukekang0124.github.io/chunkspoke-releases/apk/1.5.6/chunkspoke-latest.apk",
+    "https://raw.githubusercontent.com/Dukekang0124/chunkspoke-releases/main/apk/1.5.6/chunkspoke-latest.apk"
+  ],
+  "pageUrl": "https://dukekang0124.github.io/chunkspoke/",
+  "sha256": "1da8f15bba7d7077efd42067d8a92b89e040a34af0b6a58542c89b654bf0792c",
+  "size": 59650507,
+  "notes": "v1.5.6：界面动效整体打磨——完成庆祝、播放/暂停切换、数字滚动与底部浮层进出场统一节奏，列表与卡片按下去有缩放反馈、首页播单/词块库/复习列表依次入场（系统开启「减少动态效果」时全部改为直接切换，庆祝不再播放）；麦克风与通知改为先说明用途再请求，不再一进播放页就静默索取通知权限；底部「磨耳朵」入口新增到期块角标；复制导出内容时按钮原地变勾，不再另弹提示条。",
+  "parts": [
+    {
+      "url": "https://cdn.jsdelivr.net/gh/Dukekang0124/chunkspoke-releases@main/apk/1.5.6/parts/apk.part0",
+      "size": 15728640,
+      "sha256": "c003d7e008d34fa4c67baa879b5cbc4146d6483e250ffb8f65961b3b99f8954d"
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/Dukekang0124/chunkspoke-releases@main/apk/1.5.6/parts/apk.part1",
+      "size": 15728640,
+      "sha256": "8d5875bacbc960bb15962571fbb3579a5218ba953d42d4cf7e45727a57e53237"
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/Dukekang0124/chunkspoke-releases@main/apk/1.5.6/parts/apk.part2",
+      "size": 15728640,
+      "sha256": "385d0426f9c5e55d11193426c7ba239ee4761f5f20ab05bc47e995e8d87db0e3"
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/Dukekang0124/chunkspoke-releases@main/apk/1.5.6/parts/apk.part3",
+      "size": 12464587,
+      "sha256": "2a189dc4659479fc5ef87d39fc33c6a03f4c4b75a729b0184ab93f3384ed2df4"
+    }
+  ],
+  "model": {
+    "name": "vosk-model-small-en-us-0.15",
+    "modelVersion": "0.15.1",
+    "sha256": "30f26242c4eb449f948e42cb302dd7a686cb29a3423a8367f99ff41780942498",
+    "size": 41205931,
+    "parts": [
+      {
+        "url": "https://cdn.jsdelivr.net/gh/Dukekang0124/chunkspoke-releases@main/models/vosk-model-small-en-us-0.15/parts/model.part0",
+        "size": 15728640,
+        "sha256": "2eab1a8820ede51b79c0d98b15cf6bd7e8a8913efac87c5349a4f6ca367c4382",
+        "fallbacks": [
+          "https://raw.githubusercontent.com/Dukekang0124/chunkspoke-releases/main/models/vosk-model-small-en-us-0.15/parts/model.part0",
+          "https://dukekang0124.github.io/chunkspoke-releases/models/vosk-model-small-en-us-0.15/parts/model.part0"
+        ]
+      },
+      {
+        "url": "https://cdn.jsdelivr.net/gh/Dukekang0124/chunkspoke-releases@main/models/vosk-model-small-en-us-0.15/parts/model.part1",
+        "size": 15728640,
+        "sha256": "aa56724ff24ec6ea9743653246a4847862a8d47d7715118fe46538a431c81f0e",
+        "fallbacks": [
+          "https://raw.githubusercontent.com/Dukekang0124/chunkspoke-releases/main/models/vosk-model-small-en-us-0.15/parts/model.part1",
+          "https://dukekang0124.github.io/chunkspoke-releases/models/vosk-model-small-en-us-0.15/parts/model.part1"
+        ]
+      },
+      {
+        "url": "https://cdn.jsdelivr.net/gh/Dukekang0124/chunkspoke-releases@main/models/vosk-model-small-en-us-0.15/parts/model.part2",
+        "size": 9748651,
+        "sha256": "a5ee185abefff456fafb51fefb657af7528f33a4360e8281797c5e35f6fb7337",
+        "fallbacks": [
+          "https://raw.githubusercontent.com/Dukekang0124/chunkspoke-releases/main/models/vosk-model-small-en-us-0.15/parts/model.part2",
+          "https://dukekang0124.github.io/chunkspoke-releases/models/vosk-model-small-en-us-0.15/parts/model.part2"
+        ]
+      }
+    ]
+  },
+  "voiceModel": {
+    "name": "hd-voice-piper-en-us-medium",
+    "modelVersion": "ljspeech-medium-2",
+    "sha256": "e05c19f53a31bc5e842d435c113d5e2a4e71b3d6e3e0abe0f401364ab3dee265",
+    "size": 58873277,
+    "parts": [
+      {
+        "url": "https://cdn.jsdelivr.net/gh/Dukekang0124/chunkspoke-releases@main/voice/hd-voice-piper-en-us-medium/parts/voice.part0",
+        "size": 15728640,
+        "sha256": "57c9e78229db6236362b1c598c852829076dd374bb521b7731f4e42691e0f647",
+        "fallbacks": [
+          "https://raw.githubusercontent.com/Dukekang0124/chunkspoke-releases/main/voice/hd-voice-piper-en-us-medium/parts/voice.part0",
+          "https://dukekang0124.github.io/chunkspoke-releases/voice/hd-voice-piper-en-us-medium/parts/voice.part0"
+        ]
+      },
+      {
+        "url": "https://cdn.jsdelivr.net/gh/Dukekang0124/chunkspoke-releases@main/voice/hd-voice-piper-en-us-medium/parts/voice.part1",
+        "size": 15728640,
+        "sha256": "b33e6e88382fbb7766a926357a38e8571eb6c3a502c187facc3c6a994371acf9",
+        "fallbacks": [
+          "https://raw.githubusercontent.com/Dukekang0124/chunkspoke-releases/main/voice/hd-voice-piper-en-us-medium/parts/voice.part1",
+          "https://dukekang0124.github.io/chunkspoke-releases/voice/hd-voice-piper-en-us-medium/parts/voice.part1"
+        ]
+      },
+      {
+        "url": "https://cdn.jsdelivr.net/gh/Dukekang0124/chunkspoke-releases@main/voice/hd-voice-piper-en-us-medium/parts/voice.part2",
+        "size": 15728640,
+        "sha256": "a5ac92a106621a3ffc08e585e4c49c3c10f2787a8b7f94028411bc97c1708e68",
+        "fallbacks": [
+          "https://raw.githubusercontent.com/Dukekang0124/chunkspoke-releases/main/voice/hd-voice-piper-en-us-medium/parts/voice.part2",
+          "https://dukekang0124.github.io/chunkspoke-releases/voice/hd-voice-piper-en-us-medium/parts/voice.part2"
+        ]
+      },
+      {
+        "url": "https://cdn.jsdelivr.net/gh/Dukekang0124/chunkspoke-releases@main/voice/hd-voice-piper-en-us-medium/parts/voice.part3",
+        "size": 11687357,
+        "sha256": "ed153a7eed3f13ee8d0c634e686f931ae07e31016529f830143edc016bd69370",
+        "fallbacks": [
+          "https://raw.githubusercontent.com/Dukekang0124/chunkspoke-releases/main/voice/hd-voice-piper-en-us-medium/parts/voice.part3",
+          "https://dukekang0124.github.io/chunkspoke-releases/voice/hd-voice-piper-en-us-medium/parts/voice.part3"
+        ]
+      }
+    ],
+    "mirrorUrl": "https://raw.githubusercontent.com/Dukekang0124/chunkspoke-releases/main/voice/hd-voice-piper-en-us-medium.zip"
+  }
+}
