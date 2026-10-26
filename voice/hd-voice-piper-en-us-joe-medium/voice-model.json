@@ -1,0 +1,45 @@
+{
+  "name": "hd-voice-piper-en-us-joe-medium",
+  "modelVersion": "joe-medium-1",
+  "sha256": "02e4e5b6e5b225def6d6b97effc704fab0725bcd09e203e0ccf9580d5098921f",
+  "size": 58816506,
+  "parts": [
+    {
+      "url": "https://cdn.jsdelivr.net/gh/Dukekang0124/chunkspoke-releases@main/voice/hd-voice-piper-en-us-joe-medium/parts/voice.part0",
+      "size": 15728640,
+      "sha256": "dbf092119c0dc8bd3c5deaecb59e1e0fc12e61055944b4a4506eb4fca7a257ee",
+      "fallbacks": [
+        "https://raw.githubusercontent.com/Dukekang0124/chunkspoke-releases/main/voice/hd-voice-piper-en-us-joe-medium/parts/voice.part0",
+        "https://dukekang0124.github.io/chunkspoke-releases/voice/hd-voice-piper-en-us-joe-medium/parts/voice.part0"
+      ]
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/Dukekang0124/chunkspoke-releases@main/voice/hd-voice-piper-en-us-joe-medium/parts/voice.part1",
+      "size": 15728640,
+      "sha256": "97a635bc533084e3fa0416064ef7ad0df06dfba3ca31cc0da457b9ba74194aa6",
+      "fallbacks": [
+        "https://raw.githubusercontent.com/Dukekang0124/chunkspoke-releases/main/voice/hd-voice-piper-en-us-joe-medium/parts/voice.part1",
+        "https://dukekang0124.github.io/chunkspoke-releases/voice/hd-voice-piper-en-us-joe-medium/parts/voice.part1"
+      ]
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/Dukekang0124/chunkspoke-releases@main/voice/hd-voice-piper-en-us-joe-medium/parts/voice.part2",
+      "size": 15728640,
+      "sha256": "2454e23c73d4b1f02fde3f97faeb3fe23f23ace4481f6451d75583d752e43680",
+      "fallbacks": [
+        "https://raw.githubusercontent.com/Dukekang0124/chunkspoke-releases/main/voice/hd-voice-piper-en-us-joe-medium/parts/voice.part2",
+        "https://dukekang0124.github.io/chunkspoke-releases/voice/hd-voice-piper-en-us-joe-medium/parts/voice.part2"
+      ]
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/Dukekang0124/chunkspoke-releases@main/voice/hd-voice-piper-en-us-joe-medium/parts/voice.part3",
+      "size": 11630586,
+      "sha256": "4f15b84c8afd639f34d70f6492d3c94841b3d01fd62fa9291d5e0785246572d5",
+      "fallbacks": [
+        "https://raw.githubusercontent.com/Dukekang0124/chunkspoke-releases/main/voice/hd-voice-piper-en-us-joe-medium/parts/voice.part3",
+        "https://dukekang0124.github.io/chunkspoke-releases/voice/hd-voice-piper-en-us-joe-medium/parts/voice.part3"
+      ]
+    }
+  ],
+  "mirrorUrl": "https://raw.githubusercontent.com/Dukekang0124/chunkspoke-releases/main/voice/hd-voice-piper-en-us-joe-medium.zip"
+}

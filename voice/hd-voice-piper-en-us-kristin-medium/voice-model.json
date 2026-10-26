@@ -1,0 +1,45 @@
+{
+  "name": "hd-voice-piper-en-us-kristin-medium",
+  "modelVersion": "kristin-medium-1",
+  "sha256": "347fd878875ab02d8cbf27be8d048964532003dbda2e5d31fd976c9f5dd9ef6b",
+  "size": 58919604,
+  "parts": [
+    {
+      "url": "https://cdn.jsdelivr.net/gh/Dukekang0124/chunkspoke-releases@main/voice/hd-voice-piper-en-us-kristin-medium/parts/voice.part0",
+      "size": 15728640,
+      "sha256": "0d7f589a6b015829707af9b262561d17136357a29b3271531a7b5ebf8e12666f",
+      "fallbacks": [
+        "https://raw.githubusercontent.com/Dukekang0124/chunkspoke-releases/main/voice/hd-voice-piper-en-us-kristin-medium/parts/voice.part0",
+        "https://dukekang0124.github.io/chunkspoke-releases/voice/hd-voice-piper-en-us-kristin-medium/parts/voice.part0"
+      ]
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/Dukekang0124/chunkspoke-releases@main/voice/hd-voice-piper-en-us-kristin-medium/parts/voice.part1",
+      "size": 15728640,
+      "sha256": "389305b91cf090346c8ac18de3ae57a83dd7efbbc29fee95a4de381b421c180f",
+      "fallbacks": [
+        "https://raw.githubusercontent.com/Dukekang0124/chunkspoke-releases/main/voice/hd-voice-piper-en-us-kristin-medium/parts/voice.part1",
+        "https://dukekang0124.github.io/chunkspoke-releases/voice/hd-voice-piper-en-us-kristin-medium/parts/voice.part1"
+      ]
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/Dukekang0124/chunkspoke-releases@main/voice/hd-voice-piper-en-us-kristin-medium/parts/voice.part2",
+      "size": 15728640,
+      "sha256": "20bdf5deb11f46b8943b029d3081b5273487234664f4612919af05de349021ea",
+      "fallbacks": [
+        "https://raw.githubusercontent.com/Dukekang0124/chunkspoke-releases/main/voice/hd-voice-piper-en-us-kristin-medium/parts/voice.part2",
+        "https://dukekang0124.github.io/chunkspoke-releases/voice/hd-voice-piper-en-us-kristin-medium/parts/voice.part2"
+      ]
+    },
+    {
+      "url": "https://cdn.jsdelivr.net/gh/Dukekang0124/chunkspoke-releases@main/voice/hd-voice-piper-en-us-kristin-medium/parts/voice.part3",
+      "size": 11733684,
+      "sha256": "39c46e59939ebda9b3bd634319fa7f18935658f8db50061a0b753a570d3e446d",
+      "fallbacks": [
+        "https://raw.githubusercontent.com/Dukekang0124/chunkspoke-releases/main/voice/hd-voice-piper-en-us-kristin-medium/parts/voice.part3",
+        "https://dukekang0124.github.io/chunkspoke-releases/voice/hd-voice-piper-en-us-kristin-medium/parts/voice.part3"
+      ]
+    }
+  ],
+  "mirrorUrl": "https://raw.githubusercontent.com/Dukekang0124/chunkspoke-releases/main/voice/hd-voice-piper-en-us-kristin-medium.zip"
+}
