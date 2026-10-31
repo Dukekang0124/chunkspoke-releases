@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-31T10:48:58+08:00",
+  "updatedAt": "2026-10-31T11:54:37+08:00",
   "codes": [
     {
       "nonce": "D7F60",
@@ -13,7 +13,7 @@
     {
       "nonce": "ZX2NB",
       "edition": "PRO",
-      "status": "active",
+      "status": "revoked",
       "tail": "6N55M",
       "issuedAt": "2026-10-31T10:48:55+08:00",
       "note": "验收 d-6"
