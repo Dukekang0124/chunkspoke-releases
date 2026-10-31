@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-30T19:52:10+08:00",
+  "updatedAt": "2026-10-31T10:48:58+08:00",
   "codes": [
     {
       "nonce": "D7F60",
@@ -9,6 +9,814 @@
       "tail": "ZTMBW",
       "issuedAt": "2026-10-30T19:52:10+08:00",
       "note": "验收码（独占；验后按 S8 作废）"
+    },
+    {
+      "nonce": "ZX2NB",
+      "edition": "PRO",
+      "status": "active",
+      "tail": "6N55M",
+      "issuedAt": "2026-10-31T10:48:55+08:00",
+      "note": "验收 d-6"
+    },
+    {
+      "nonce": "PKAFZ",
+      "edition": "PRO",
+      "status": "active",
+      "tail": "ZRQF2",
+      "issuedAt": "2026-10-31T10:48:58+08:00",
+      "note": "早鸟池"
+    },
+    {
+      "nonce": "XCCJ2",
+      "edition": "PRO",
+      "status": "active",
+      "tail": "YMTP8",
+      "issuedAt": "2026-10-31T10:48:58+08:00",
+      "note": "早鸟池"
+    },
+    {
+      "nonce": "HJG7W",
+      "edition": "PRO",
+      "status": "active",
+      "tail": "TFTP6",
+      "issuedAt": "2026-10-31T10:48:58+08:00",
+      "note": "早鸟池"
+    },
+    {
+      "nonce": "CRXKD",
+      "edition": "PRO",
+      "status": "active",
+      "tail": "EYGWA",
+      "issuedAt": "2026-10-31T10:48:58+08:00",
+      "note": "早鸟池"
+    },
+    {
+      "nonce": "03FEC",
+      "edition": "PRO",
+      "status": "active",
+      "tail": "W1MPK",
+      "issuedAt": "2026-10-31T10:48:58+08:00",
+      "note": "早鸟池"
+    },
+    {
+      "nonce": "CM9AM",
+      "edition": "PRO",
+      "status": "active",
+      "tail": "BWKT9",
+      "issuedAt": "2026-10-31T10:48:58+08:00",
+      "note": "早鸟池"
+    },
+    {
+      "nonce": "P7FYV",
+      "edition": "PRO",
+      "status": "active",
+      "tail": "79DMM",
+      "issuedAt": "2026-10-31T10:48:58+08:00",
+      "note": "早鸟池"
+    },
+    {
+      "nonce": "ZSX6C",
+      "edition": "PRO",
+      "status": "active",
+      "tail": "4ZQWD",
+      "issuedAt": "2026-10-31T10:48:58+08:00",
+      "note": "早鸟池"
+    },
+    {
+      "nonce": "FFCW3",
+      "edition": "PRO",
+      "status": "active",
+      "tail": "V105A",
+      "issuedAt": "2026-10-31T10:48:58+08:00",
+      "note": "早鸟池"
+    },
+    {
+      "nonce": "4VKVM",
+      "edition": "PRO",
+      "status": "active",
+      "tail": "6KF7V",
+      "issuedAt": "2026-10-31T10:48:58+08:00",
+      "note": "早鸟池"
+    },
+    {
+      "nonce": "T5VET",
+      "edition": "PRO",
+      "status": "active",
+      "tail": "J844E",
+      "issuedAt": "2026-10-31T10:48:58+08:00",
+      "note": "早鸟池"
+    },
+    {
+      "nonce": "ZWJ03",
+      "edition": "PRO",
+      "status": "active",
+      "tail": "HKQQF",
+      "issuedAt": "2026-10-31T10:48:58+08:00",
+      "note": "早鸟池"
+    },
+    {
+      "nonce": "T3HWK",
+      "edition": "PRO",
+      "status": "active",
+      "tail": "SSVB3",
+      "issuedAt": "2026-10-31T10:48:58+08:00",
+      "note": "早鸟池"
+    },
+    {
+      "nonce": "JZVMK",
+      "edition": "PRO",
+      "status": "active",
+      "tail": "P5B7S",
+      "issuedAt": "2026-10-31T10:48:58+08:00",
+      "note": "早鸟池"
+    },
+    {
+      "nonce": "ADJN7",
+      "edition": "PRO",
+      "status": "active",
+      "tail": "Y0Z22",
+      "issuedAt": "2026-10-31T10:48:58+08:00",
+      "note": "早鸟池"
+    },
+    {
+      "nonce": "YR75W",
+      "edition": "PRO",
+      "status": "active",
+      "tail": "WRXK1",
+      "issuedAt": "2026-10-31T10:48:58+08:00",
+      "note": "早鸟池"
+    },
+    {
+      "nonce": "P2W0W",
+      "edition": "PRO",
+      "status": "active",
+      "tail": "5TA33",
+      "issuedAt": "2026-10-31T10:48:58+08:00",
+      "note": "早鸟池"
+    },
+    {
+      "nonce": "1F675",
+      "edition": "PRO",
+      "status": "active",
+      "tail": "ABN3W",
+      "issuedAt": "2026-10-31T10:48:58+08:00",
+      "note": "早鸟池"
+    },
+    {
+      "nonce": "XAFQF",
+      "edition": "PRO",
+      "status": "active",
+      "tail": "Q75CY",
+      "issuedAt": "2026-10-31T10:48:58+08:00",
+      "note": "早鸟池"
+    },
+    {
+      "nonce": "H2BGG",
+      "edition": "PRO",
+      "status": "active",
+      "tail": "BF8H6",
+      "issuedAt": "2026-10-31T10:48:58+08:00",
+      "note": "早鸟池"
+    },
+    {
+      "nonce": "HZ419",
+      "edition": "PRO",
+      "status": "active",
+      "tail": "R66A6",
+      "issuedAt": "2026-10-31T10:48:58+08:00",
+      "note": "早鸟池"
+    },
+    {
+      "nonce": "4E3DW",
+      "edition": "PRO",
+      "status": "active",
+      "tail": "RBEPW",
+      "issuedAt": "2026-10-31T10:48:58+08:00",
+      "note": "早鸟池"
+    },
+    {
+      "nonce": "FW1EM",
+      "edition": "PRO",
+      "status": "active",
+      "tail": "N4301",
+      "issuedAt": "2026-10-31T10:48:58+08:00",
+      "note": "早鸟池"
+    },
+    {
+      "nonce": "DT3BH",
+      "edition": "PRO",
+      "status": "active",
+      "tail": "EVD86",
+      "issuedAt": "2026-10-31T10:48:58+08:00",
+      "note": "早鸟池"
+    },
+    {
+      "nonce": "2RVT0",
+      "edition": "PRO",
+      "status": "active",
+      "tail": "6GMF2",
+      "issuedAt": "2026-10-31T10:48:58+08:00",
+      "note": "早鸟池"
+    },
+    {
+      "nonce": "2TWHD",
+      "edition": "PRO",
+      "status": "active",
+      "tail": "TNVGB",
+      "issuedAt": "2026-10-31T10:48:58+08:00",
+      "note": "早鸟池"
+    },
+    {
+      "nonce": "2Z6RR",
+      "edition": "PRO",
+      "status": "active",
+      "tail": "5ACT3",
+      "issuedAt": "2026-10-31T10:48:58+08:00",
+      "note": "早鸟池"
+    },
+    {
+      "nonce": "NVN75",
+      "edition": "PRO",
+      "status": "active",
+      "tail": "3X32X",
+      "issuedAt": "2026-10-31T10:48:58+08:00",
+      "note": "早鸟池"
+    },
+    {
+      "nonce": "K8FY2",
+      "edition": "PRO",
+      "status": "active",
+      "tail": "E691X",
+      "issuedAt": "2026-10-31T10:48:58+08:00",
+      "note": "早鸟池"
+    },
+    {
+      "nonce": "GERSN",
+      "edition": "PRO",
+      "status": "active",
+      "tail": "CG5PJ",
+      "issuedAt": "2026-10-31T10:48:58+08:00",
+      "note": "早鸟池"
+    },
+    {
+      "nonce": "2A4M2",
+      "edition": "PRO",
+      "status": "active",
+      "tail": "83K7V",
+      "issuedAt": "2026-10-31T10:48:58+08:00",
+      "note": "早鸟池"
+    },
+    {
+      "nonce": "VKF9R",
+      "edition": "PRO",
+      "status": "active",
+      "tail": "BMWZ0",
+      "issuedAt": "2026-10-31T10:48:58+08:00",
+      "note": "早鸟池"
+    },
+    {
+      "nonce": "JNTR6",
+      "edition": "PRO",
+      "status": "active",
+      "tail": "FK3MS",
+      "issuedAt": "2026-10-31T10:48:58+08:00",
+      "note": "早鸟池"
+    },
+    {
+      "nonce": "XK7TA",
+      "edition": "PRO",
+      "status": "active",
+      "tail": "C083G",
+      "issuedAt": "2026-10-31T10:48:58+08:00",
+      "note": "早鸟池"
+    },
+    {
+      "nonce": "7YRKQ",
+      "edition": "PRO",
+      "status": "active",
+      "tail": "K6YN2",
+      "issuedAt": "2026-10-31T10:48:58+08:00",
+      "note": "早鸟池"
+    },
+    {
+      "nonce": "69M5B",
+      "edition": "PRO",
+      "status": "active",
+      "tail": "A2HET",
+      "issuedAt": "2026-10-31T10:48:58+08:00",
+      "note": "早鸟池"
+    },
+    {
+      "nonce": "26BPN",
+      "edition": "PRO",
+      "status": "active",
+      "tail": "C4HJS",
+      "issuedAt": "2026-10-31T10:48:58+08:00",
+      "note": "早鸟池"
+    },
+    {
+      "nonce": "MKM10",
+      "edition": "PRO",
+      "status": "active",
+      "tail": "7NK6M",
+      "issuedAt": "2026-10-31T10:48:58+08:00",
+      "note": "早鸟池"
+    },
+    {
+      "nonce": "0PQQZ",
+      "edition": "PRO",
+      "status": "active",
+      "tail": "Z0YCT",
+      "issuedAt": "2026-10-31T10:48:58+08:00",
+      "note": "早鸟池"
+    },
+    {
+      "nonce": "SAW8C",
+      "edition": "PRO",
+      "status": "active",
+      "tail": "VA6T8",
+      "issuedAt": "2026-10-31T10:48:58+08:00",
+      "note": "早鸟池"
+    },
+    {
+      "nonce": "AS314",
+      "edition": "PRO",
+      "status": "active",
+      "tail": "3XPJA",
+      "issuedAt": "2026-10-31T10:48:58+08:00",
+      "note": "早鸟池"
+    },
+    {
+      "nonce": "Q8NKC",
+      "edition": "PRO",
+      "status": "active",
+      "tail": "CJQSP",
+      "issuedAt": "2026-10-31T10:48:58+08:00",
+      "note": "早鸟池"
+    },
+    {
+      "nonce": "BFWK9",
+      "edition": "PRO",
+      "status": "active",
+      "tail": "V7CMN",
+      "issuedAt": "2026-10-31T10:48:58+08:00",
+      "note": "早鸟池"
+    },
+    {
+      "nonce": "PGPYS",
+      "edition": "PRO",
+      "status": "active",
+      "tail": "CKB81",
+      "issuedAt": "2026-10-31T10:48:58+08:00",
+      "note": "早鸟池"
+    },
+    {
+      "nonce": "HD6NP",
+      "edition": "PRO",
+      "status": "active",
+      "tail": "YZJXQ",
+      "issuedAt": "2026-10-31T10:48:58+08:00",
+      "note": "早鸟池"
+    },
+    {
+      "nonce": "GC4H4",
+      "edition": "PRO",
+      "status": "active",
+      "tail": "6EWRB",
+      "issuedAt": "2026-10-31T10:48:58+08:00",
+      "note": "早鸟池"
+    },
+    {
+      "nonce": "J9DHF",
+      "edition": "PRO",
+      "status": "active",
+      "tail": "CAQWS",
+      "issuedAt": "2026-10-31T10:48:58+08:00",
+      "note": "早鸟池"
+    },
+    {
+      "nonce": "4ZY9H",
+      "edition": "PRO",
+      "status": "active",
+      "tail": "HHCQ1",
+      "issuedAt": "2026-10-31T10:48:58+08:00",
+      "note": "早鸟池"
+    },
+    {
+      "nonce": "1KX21",
+      "edition": "PRO",
+      "status": "active",
+      "tail": "5V6DQ",
+      "issuedAt": "2026-10-31T10:48:58+08:00",
+      "note": "早鸟池"
+    },
+    {
+      "nonce": "X413P",
+      "edition": "PRO",
+      "status": "active",
+      "tail": "C766D",
+      "issuedAt": "2026-10-31T10:48:58+08:00",
+      "note": "早鸟池"
+    },
+    {
+      "nonce": "7DJQK",
+      "edition": "PRO",
+      "status": "active",
+      "tail": "TRFYX",
+      "issuedAt": "2026-10-31T10:48:58+08:00",
+      "note": "早鸟池"
+    },
+    {
+      "nonce": "56WZJ",
+      "edition": "PRO",
+      "status": "active",
+      "tail": "9NMHA",
+      "issuedAt": "2026-10-31T10:48:58+08:00",
+      "note": "早鸟池"
+    },
+    {
+      "nonce": "9PCHG",
+      "edition": "PRO",
+      "status": "active",
+      "tail": "EYTS6",
+      "issuedAt": "2026-10-31T10:48:58+08:00",
+      "note": "早鸟池"
+    },
+    {
+      "nonce": "B1YXQ",
+      "edition": "PRO",
+      "status": "active",
+      "tail": "PRR0Q",
+      "issuedAt": "2026-10-31T10:48:58+08:00",
+      "note": "早鸟池"
+    },
+    {
+      "nonce": "VCV03",
+      "edition": "PRO",
+      "status": "active",
+      "tail": "QVB9E",
+      "issuedAt": "2026-10-31T10:48:58+08:00",
+      "note": "早鸟池"
+    },
+    {
+      "nonce": "YPM1Q",
+      "edition": "PRO",
+      "status": "active",
+      "tail": "7ZD80",
+      "issuedAt": "2026-10-31T10:48:58+08:00",
+      "note": "早鸟池"
+    },
+    {
+      "nonce": "J1J5X",
+      "edition": "PRO",
+      "status": "active",
+      "tail": "VPYQD",
+      "issuedAt": "2026-10-31T10:48:58+08:00",
+      "note": "早鸟池"
+    },
+    {
+      "nonce": "RRTHB",
+      "edition": "PRO",
+      "status": "active",
+      "tail": "MZ1VQ",
+      "issuedAt": "2026-10-31T10:48:58+08:00",
+      "note": "早鸟池"
+    },
+    {
+      "nonce": "MJ9CK",
+      "edition": "PRO",
+      "status": "active",
+      "tail": "FMWJA",
+      "issuedAt": "2026-10-31T10:48:58+08:00",
+      "note": "早鸟池"
+    },
+    {
+      "nonce": "K9SNT",
+      "edition": "PRO",
+      "status": "active",
+      "tail": "4CST2",
+      "issuedAt": "2026-10-31T10:48:58+08:00",
+      "note": "早鸟池"
+    },
+    {
+      "nonce": "ENV6K",
+      "edition": "PRO",
+      "status": "active",
+      "tail": "TSD6G",
+      "issuedAt": "2026-10-31T10:48:58+08:00",
+      "note": "早鸟池"
+    },
+    {
+      "nonce": "WHS3H",
+      "edition": "PRO",
+      "status": "active",
+      "tail": "WHH0C",
+      "issuedAt": "2026-10-31T10:48:58+08:00",
+      "note": "早鸟池"
+    },
+    {
+      "nonce": "BAHDX",
+      "edition": "PRO",
+      "status": "active",
+      "tail": "FDHVV",
+      "issuedAt": "2026-10-31T10:48:58+08:00",
+      "note": "早鸟池"
+    },
+    {
+      "nonce": "44W6G",
+      "edition": "PRO",
+      "status": "active",
+      "tail": "7Q320",
+      "issuedAt": "2026-10-31T10:48:58+08:00",
+      "note": "早鸟池"
+    },
+    {
+      "nonce": "0B7DQ",
+      "edition": "PRO",
+      "status": "active",
+      "tail": "GK3MR",
+      "issuedAt": "2026-10-31T10:48:58+08:00",
+      "note": "早鸟池"
+    },
+    {
+      "nonce": "HJP60",
+      "edition": "PRO",
+      "status": "active",
+      "tail": "H2J1G",
+      "issuedAt": "2026-10-31T10:48:58+08:00",
+      "note": "早鸟池"
+    },
+    {
+      "nonce": "KRKD9",
+      "edition": "PRO",
+      "status": "active",
+      "tail": "V28HK",
+      "issuedAt": "2026-10-31T10:48:58+08:00",
+      "note": "早鸟池"
+    },
+    {
+      "nonce": "RXVXT",
+      "edition": "PRO",
+      "status": "active",
+      "tail": "540DS",
+      "issuedAt": "2026-10-31T10:48:58+08:00",
+      "note": "早鸟池"
+    },
+    {
+      "nonce": "4EFED",
+      "edition": "PRO",
+      "status": "active",
+      "tail": "AJG76",
+      "issuedAt": "2026-10-31T10:48:58+08:00",
+      "note": "早鸟池"
+    },
+    {
+      "nonce": "C8CTE",
+      "edition": "PRO",
+      "status": "active",
+      "tail": "MSSQK",
+      "issuedAt": "2026-10-31T10:48:58+08:00",
+      "note": "早鸟池"
+    },
+    {
+      "nonce": "AM8JT",
+      "edition": "PRO",
+      "status": "active",
+      "tail": "VQA7M",
+      "issuedAt": "2026-10-31T10:48:58+08:00",
+      "note": "早鸟池"
+    },
+    {
+      "nonce": "3WTKE",
+      "edition": "PRO",
+      "status": "active",
+      "tail": "F0D8Q",
+      "issuedAt": "2026-10-31T10:48:58+08:00",
+      "note": "早鸟池"
+    },
+    {
+      "nonce": "XR035",
+      "edition": "PRO",
+      "status": "active",
+      "tail": "JBCQW",
+      "issuedAt": "2026-10-31T10:48:58+08:00",
+      "note": "早鸟池"
+    },
+    {
+      "nonce": "B6K87",
+      "edition": "PRO",
+      "status": "active",
+      "tail": "0FE2E",
+      "issuedAt": "2026-10-31T10:48:58+08:00",
+      "note": "早鸟池"
+    },
+    {
+      "nonce": "MNF6V",
+      "edition": "PRO",
+      "status": "active",
+      "tail": "YN7XY",
+      "issuedAt": "2026-10-31T10:48:58+08:00",
+      "note": "早鸟池"
+    },
+    {
+      "nonce": "M69G0",
+      "edition": "PRO",
+      "status": "active",
+      "tail": "2MY2T",
+      "issuedAt": "2026-10-31T10:48:58+08:00",
+      "note": "早鸟池"
+    },
+    {
+      "nonce": "8Q8HJ",
+      "edition": "PRO",
+      "status": "active",
+      "tail": "29CW9",
+      "issuedAt": "2026-10-31T10:48:58+08:00",
+      "note": "早鸟池"
+    },
+    {
+      "nonce": "ZM15G",
+      "edition": "PRO",
+      "status": "active",
+      "tail": "MNTPN",
+      "issuedAt": "2026-10-31T10:48:58+08:00",
+      "note": "早鸟池"
+    },
+    {
+      "nonce": "Z4M16",
+      "edition": "PRO",
+      "status": "active",
+      "tail": "01JAF",
+      "issuedAt": "2026-10-31T10:48:58+08:00",
+      "note": "早鸟池"
+    },
+    {
+      "nonce": "CZB7S",
+      "edition": "PRO",
+      "status": "active",
+      "tail": "5MKGF",
+      "issuedAt": "2026-10-31T10:48:58+08:00",
+      "note": "早鸟池"
+    },
+    {
+      "nonce": "XHWG7",
+      "edition": "PRO",
+      "status": "active",
+      "tail": "R44G2",
+      "issuedAt": "2026-10-31T10:48:58+08:00",
+      "note": "早鸟池"
+    },
+    {
+      "nonce": "J3BZ8",
+      "edition": "PRO",
+      "status": "active",
+      "tail": "54Z1Q",
+      "issuedAt": "2026-10-31T10:48:58+08:00",
+      "note": "早鸟池"
+    },
+    {
+      "nonce": "94JP8",
+      "edition": "PRO",
+      "status": "active",
+      "tail": "G36MD",
+      "issuedAt": "2026-10-31T10:48:58+08:00",
+      "note": "早鸟池"
+    },
+    {
+      "nonce": "DCMVS",
+      "edition": "PRO",
+      "status": "active",
+      "tail": "3W81D",
+      "issuedAt": "2026-10-31T10:48:58+08:00",
+      "note": "早鸟池"
+    },
+    {
+      "nonce": "SX3C9",
+      "edition": "PRO",
+      "status": "active",
+      "tail": "BK2K7",
+      "issuedAt": "2026-10-31T10:48:58+08:00",
+      "note": "早鸟池"
+    },
+    {
+      "nonce": "BKW71",
+      "edition": "PRO",
+      "status": "active",
+      "tail": "JZAXV",
+      "issuedAt": "2026-10-31T10:48:58+08:00",
+      "note": "早鸟池"
+    },
+    {
+      "nonce": "5MATD",
+      "edition": "PRO",
+      "status": "active",
+      "tail": "PGQHR",
+      "issuedAt": "2026-10-31T10:48:58+08:00",
+      "note": "早鸟池"
+    },
+    {
+      "nonce": "0CK7Q",
+      "edition": "PRO",
+      "status": "active",
+      "tail": "NQXYA",
+      "issuedAt": "2026-10-31T10:48:58+08:00",
+      "note": "早鸟池"
+    },
+    {
+      "nonce": "QYW60",
+      "edition": "PRO",
+      "status": "active",
+      "tail": "RHEV1",
+      "issuedAt": "2026-10-31T10:48:58+08:00",
+      "note": "早鸟池"
+    },
+    {
+      "nonce": "HHV3W",
+      "edition": "PRO",
+      "status": "active",
+      "tail": "2FMQE",
+      "issuedAt": "2026-10-31T10:48:58+08:00",
+      "note": "早鸟池"
+    },
+    {
+      "nonce": "K752X",
+      "edition": "PRO",
+      "status": "active",
+      "tail": "FA890",
+      "issuedAt": "2026-10-31T10:48:58+08:00",
+      "note": "早鸟池"
+    },
+    {
+      "nonce": "F8SN9",
+      "edition": "PRO",
+      "status": "active",
+      "tail": "YR6J9",
+      "issuedAt": "2026-10-31T10:48:58+08:00",
+      "note": "早鸟池"
+    },
+    {
+      "nonce": "B55GY",
+      "edition": "PRO",
+      "status": "active",
+      "tail": "RCCMX",
+      "issuedAt": "2026-10-31T10:48:58+08:00",
+      "note": "早鸟池"
+    },
+    {
+      "nonce": "TFPMR",
+      "edition": "PRO",
+      "status": "active",
+      "tail": "8KSXW",
+      "issuedAt": "2026-10-31T10:48:58+08:00",
+      "note": "早鸟池"
+    },
+    {
+      "nonce": "8W1BR",
+      "edition": "PRO",
+      "status": "active",
+      "tail": "7KX5Q",
+      "issuedAt": "2026-10-31T10:48:58+08:00",
+      "note": "早鸟池"
+    },
+    {
+      "nonce": "9JVK1",
+      "edition": "PRO",
+      "status": "active",
+      "tail": "RJXX5",
+      "issuedAt": "2026-10-31T10:48:58+08:00",
+      "note": "早鸟池"
+    },
+    {
+      "nonce": "60BKC",
+      "edition": "PRO",
+      "status": "active",
+      "tail": "P2CMP",
+      "issuedAt": "2026-10-31T10:48:58+08:00",
+      "note": "早鸟池"
+    },
+    {
+      "nonce": "JQDVR",
+      "edition": "PRO",
+      "status": "active",
+      "tail": "E71RE",
+      "issuedAt": "2026-10-31T10:48:58+08:00",
+      "note": "早鸟池"
+    },
+    {
+      "nonce": "GSZ5N",
+      "edition": "PRO",
+      "status": "active",
+      "tail": "SK77F",
+      "issuedAt": "2026-10-31T10:48:58+08:00",
+      "note": "早鸟池"
+    },
+    {
+      "nonce": "XF565",
+      "edition": "PRO",
+      "status": "active",
+      "tail": "3BTB4",
+      "issuedAt": "2026-10-31T10:48:58+08:00",
+      "note": "早鸟池"
     }
   ]
 }
