@@ -1,0 +1,34 @@
+{
+  "packages": {
+    "chunkspoke-latest.apk": {
+      "size": 60070071,
+      "sha256": "2692d3e9069d12b8c6ae8bb6a9599a0fc4dca05a03b68699c79747e7d950cf8f"
+    },
+    "chunkspoke-x86_64.apk": {
+      "size": 66161676,
+      "sha256": "eb926a1f5b920bd68473802a6e7c8a25656f3aaeb6f96fb92e2f592c18d8ce68"
+    }
+  },
+  "parts": [
+    {
+      "file": "apk.part0",
+      "size": 15728640,
+      "sha256": "a8d9f37a7d8b25583ce4c5821055c940df1d230bcedd2db3e950e35617510042"
+    },
+    {
+      "file": "apk.part1",
+      "size": 15728640,
+      "sha256": "452d7840b73bd23053c0260f787984659ed0ff9e284f6965f8ce79232e3af05d"
+    },
+    {
+      "file": "apk.part2",
+      "size": 15728640,
+      "sha256": "a469d254a22e8028a4dcf0816780d07a7a121b586ce59a48c427d17c2a05e332"
+    },
+    {
+      "file": "apk.part3",
+      "size": 12884151,
+      "sha256": "5cdb935a004d7d88308ed8a9602d1063ee72acfbfeda6d180c7c57e89b0902ce"
+    }
+  ]
+}
