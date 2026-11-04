@@ -8,7 +8,7 @@
       "versionCode": 4083,
       "file": "chunkspoke-latest.apk",
       "size": 60212339,
-      "sha256": "e15f7d7336cd0a81f98e9e3f652164a12485251d1d0da5a54bf4257f770d27d0",
+      "sha256": "8560e1ea2e35de4bd141c960b2b9a6087a15adc5f70f9e5c505e42f4f97bc8f7",
       "url": "https://dukekang0124.github.io/chunkspoke-releases/apk/1.8.3/chunkspoke-latest.apk",
       "raw": "https://raw.githubusercontent.com/Dukekang0124/chunkspoke-releases/main/apk/1.8.3/chunkspoke-latest.apk"
     },
@@ -17,7 +17,7 @@
       "versionCode": 3083,
       "file": "chunkspoke-armeabi-v7a.apk",
       "size": 48520881,
-      "sha256": "67a227e4578bcb6108be19ae612509f4e3f16118d7381c8a35a388f42fbacdf8",
+      "sha256": "502611cfa3204ea4d2569734e2ae2182243c3fc3786487ffed8860e4e28a39db",
       "url": "https://dukekang0124.github.io/chunkspoke-releases/apk/1.8.3/chunkspoke-armeabi-v7a.apk",
       "raw": "https://raw.githubusercontent.com/Dukekang0124/chunkspoke-releases/main/apk/1.8.3/chunkspoke-armeabi-v7a.apk"
     },
@@ -26,7 +26,7 @@
       "versionCode": 6083,
       "file": "chunkspoke-x86_64.apk",
       "size": 66369480,
-      "sha256": "d7d5c3f8e61814457a17d9d6a341ef1c158f02d3f2e49bcff3d4cf55e044ef0a",
+      "sha256": "3ee6a6313a83c565504fd32aa6a2fe97b3b12fff2c5f9f01739d80e8d266b040",
       "url": "https://dukekang0124.github.io/chunkspoke-releases/apk/1.8.3/chunkspoke-x86_64.apk",
       "raw": "https://raw.githubusercontent.com/Dukekang0124/chunkspoke-releases/main/apk/1.8.3/chunkspoke-x86_64.apk"
     }

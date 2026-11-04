@@ -7,14 +7,14 @@
     "https://raw.githubusercontent.com/Dukekang0124/chunkspoke-releases/main/apk/1.8.3/chunkspoke-latest.apk"
   ],
   "pageUrl": "https://dukekang0124.github.io/chunkspoke/",
-  "sha256": "e15f7d7336cd0a81f98e9e3f652164a12485251d1d0da5a54bf4257f770d27d0",
+  "sha256": "8560e1ea2e35de4bd141c960b2b9a6087a15adc5f70f9e5c505e42f4f97bc8f7",
   "size": 60212339,
   "notes": "v1.8.3：案三定义分歧修复 + 判卷归一补丁（ASR-211）——有跳块的模块不再出现「台账 21/25、页面写第 10 块」两套数：进度页改成同时报「第 X 块待通过 · 已掌握 N/M」，并给出「补练未通过块」入口。学习断点只由学习记录决定，补练/复习这类局部练习不再改写整模块断点；打开应用、回到前台、进入模块、诊断页一键修复四个时机会自动把陈旧断点按学习记录归位。设置→诊断把「台账」和「界面渲染值」并排显示，新增孤儿行与跳块清单，随导出文件一起回传（词块 id 迁移表做不做就看这份数据）。判卷补上撇号缩合归一：I'd like… 被转写成 I would like… 不再算丢一个词——那句 main course 现在是「差一点，再录一遍不扣分」；course↔cross 这类真说错仍然判错，不放水。hello 只剩一个字母那句属识别层丢词，判卷层不放宽：请先在设置里下载并启用「增强识别包」（目标句已作为热词传入）再复测一遍。识别引擎仍为 Vosk small（上一版 517 句实测裁定不换），本版起引擎取舍以真人麦克风评测集为准。",
   "parts": [
     {
       "url": "https://cdn.jsdelivr.net/gh/Dukekang0124/chunkspoke-releases@main/apk/1.8.3/parts/apk.part0",
       "size": 15728640,
-      "sha256": "c2de926df739769dfdc07ff091f41db39f9efaf92916039c70ee0e939b7d07b9"
+      "sha256": "91bf585b4d6513cb97766992d57ecae6e9fd6c295929d1bb532934e212d89dca"
     },
     {
       "url": "https://cdn.jsdelivr.net/gh/Dukekang0124/chunkspoke-releases@main/apk/1.8.3/parts/apk.part1",
@@ -29,7 +29,7 @@
     {
       "url": "https://cdn.jsdelivr.net/gh/Dukekang0124/chunkspoke-releases@main/apk/1.8.3/parts/apk.part3",
       "size": 13026419,
-      "sha256": "8f5e5d157e65ba9f477a33884b73d2f5cff97603fae3b0769e586fba01c91537"
+      "sha256": "496ffdb0c9056265df240eb6657e486983708c6ee1cdec780b0b94a8a89591b7"
     }
   ],
   "model": {
